@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I am currently working on service platform for software delivery at large retail company, using Ansible, Terraform, Kubernetes
+- 🔭 I am currently working on a service platform for software delivery at a large retail company, using Ansible, Terraform, Kubernetes
 
-- 🌱 I’m currently learning Go, Rust, Kubernetes, AWS, Linux kernel
+- 🌱 I’m currently learning Go, Rust, AWS, Linux Kernel
 
-- 👯 I’m looking to collaborate on AWS projects, Kubernetes, implementing Devops & SRE practices
+- 👯 I’m looking to collaborate on AWS projects, Kubernetes, implementing DevOps & SRE practices
 
 
 
